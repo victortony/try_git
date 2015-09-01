@@ -157,9 +157,4 @@ public class Line extends Element {
 
 	// }
 
-	@Override
-	void unSelected() {
-            System.out.println("line unselected");
-	}
-
 }
