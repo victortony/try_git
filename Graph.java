@@ -53,8 +53,6 @@ public class Graph implements Serializable {
 		return graph;
 	}
 
-	private Graph() {
-	}
 
 
 	public synchronized void remove(Element e) {
