@@ -159,7 +159,7 @@ public class Line extends Element {
 
 	@Override
 	void unSelected() {
-		// TODO Auto-generated method stub
+		
 
 	}
 
